@@ -4,9 +4,9 @@
 
 Different versions available:
 * ***korla-plus*** - for dark themes with dark panel
-* ***korla-light-plus*** - for light themes with dark panel (depends on Korla)
-* ***korla-light-panel-plus*** - for light themes with light panel (depends on Korla and Korla-light)
-* ***korla-prgey-plus*** - theme with grey folder colors (depends on Korla)
+* ***korla-plus-light*** - for light themes with dark panel (depends on Korla-plus)
+* ***korla-plus-light-panel*** - for light themes with light panel (depends on Korla-plus and Korla-plus-light)
+* ***korla-plus-prgey*** - theme with grey folder colors (depends on Korla-plus)
 
 ## Installation
 
@@ -23,3 +23,8 @@ Alternatively, you can use the included installation script in one of the follow
 Use `python3 install.py link ` to create symbolic links to your icons for easy modifying.
 
 Or use `python3 install.py move` to just move the included themes and then delete everything else.
+
+
+
+
+
