@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,10 +38,10 @@
      inkscape:window-height="1027"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="8"
+     inkscape:zoom="13.579365"
+     inkscape:cx="33.164608"
+     inkscape:cy="15.46379"
+     inkscape:window-x="964"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
@@ -97,13 +97,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:18.46460533px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46161515"
-     x="45.306454"
-     y="30.735739"
+     x="45.326382"
+     y="31.038713"
      id="text32"
      transform="rotate(17.799606)"><tspan
        sodipodi:role="line"
        id="tspan30"
-       x="45.306454"
-       y="30.735739"
+       x="45.326382"
+       y="31.038713"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.46161515">T</tspan></text>
 </svg>
