@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,15 +38,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1875"
-     inkscape:window-height="2100"
+     inkscape:window-width="948"
+     inkscape:window-height="1027"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="21.935897"
-     inkscape:cx="23.491525"
-     inkscape:cy="30"
-     inkscape:window-x="1935"
-     inkscape:window-y="30"
+     inkscape:zoom="14.003104"
+     inkscape:cx="23.249562"
+     inkscape:cy="21.471654"
+     inkscape:window-x="964"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <path
@@ -114,42 +114,42 @@
      id="path2-7" />
   <ellipse
      cx="16.950735"
-     cy="31.041691"
+     cy="33.041691"
      rx="1.3221282"
      ry="1.3195126"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.56275296px;stroke-linecap:round;stroke-linejoin:round"
      id="ellipse4" />
   <rect
      x="20.586916"
-     y="29.983723"
+     y="31.983723"
      width="12.213666"
      height="2.0642724"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.50390446px;stroke-linecap:round;stroke-linejoin:round"
      id="rect6" />
   <ellipse
      cx="16.950735"
-     cy="24.846258"
+     cy="26.846258"
      rx="1.3221282"
      ry="1.3195126"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.56275296px;stroke-linecap:round;stroke-linejoin:round"
      id="ellipse8" />
   <rect
      x="20.586916"
-     y="23.788298"
+     y="25.788298"
      width="12.213666"
      height="2.0642724"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.50390446px;stroke-linecap:round;stroke-linejoin:round"
      id="rect10" />
   <ellipse
      cx="16.951389"
-     cy="18.337622"
+     cy="20.337622"
      rx="1.3221282"
      ry="1.3195126"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.56275296px;stroke-linecap:round;stroke-linejoin:round"
      id="ellipse12" />
   <rect
      x="20.586916"
-     y="17.28031"
+     y="19.28031"
      width="12.213666"
      height="2.0642724"
      style="clip-rule:evenodd;opacity:0.806;fill:#e7ecf0;fill-rule:evenodd;stroke:#e7ecf0;stroke-width:1.50390446px;stroke-linecap:round;stroke-linejoin:round"

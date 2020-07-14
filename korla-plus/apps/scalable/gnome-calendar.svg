@@ -43,7 +43,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="19.627119"
+     inkscape:cx="10.881357"
      inkscape:cy="24"
      inkscape:window-x="964"
      inkscape:window-y="8"
@@ -51,11 +51,12 @@
      inkscape:current-layer="svg24" />
   <linearGradient
      id="a"
-     x2="1"
+     x2="0.5946638"
      gradientTransform="matrix(0 -51.6834 51.6834 0 24 33.0175)"
      gradientUnits="userSpaceOnUse"
-     x1="-0.24005347"
-     y1="-0.0039353026">
+     x1="-0.24398878"
+     y1="-0.011805908"
+     y2="-0.0039353026">
     <stop
        stop-color="#006783"
        offset="0"
@@ -64,7 +65,8 @@
     <stop
        stop-color="#20ccff"
        offset="1"
-       id="stop4" />
+       id="stop4"
+       style="stop-color:#00a0d1;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="b"
@@ -84,7 +86,7 @@
      d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z"
      fill="url(#a)"
      id="path12"
-     style="fill:url(#a)" />
+     style="fill:#0095be;fill-opacity:1" />
   <path
      d="m45.668 25 1.191 11.807c0 3.438-2.943 6.228-6.57 6.228h-32.578c-3.627 0-6.57-2.79-6.57-6.228l1.191-11.807z"
      fill="#005268"
