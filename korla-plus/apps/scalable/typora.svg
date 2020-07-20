@@ -34,14 +34,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="948"
-     inkscape:window-height="1027"
+     inkscape:window-width="3824"
+     inkscape:window-height="2107"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="13.579365"
-     inkscape:cx="33.164608"
-     inkscape:cy="15.46379"
-     inkscape:window-x="964"
+     inkscape:zoom="13.31549"
+     inkscape:cx="20.148813"
+     inkscape:cy="16.626996"
+     inkscape:window-x="8"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
@@ -61,7 +61,7 @@
      cx="36"
      cy="36"
      r="11"
-     style="fill:#045af2"
+     style="fill:#ff590c;fill-opacity:1"
      id="circle8" />
   <defs
      id="defs22">
@@ -71,11 +71,11 @@
        gradientTransform="matrix(-.476427 -44.666 44.666 -.476427 94.464 44.6444)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:#286cd8"
+         style="stop-color:#ff4a01;stop-opacity:1"
          offset="0"
          id="stop12" />
       <stop
-         style="stop-color:#40a9fe"
+         style="stop-color:#ffa23f;stop-opacity:1"
          offset="1"
          id="stop14" />
     </linearGradient>
@@ -94,16 +94,9 @@
          id="stop19" />
     </linearGradient>
   </defs>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:18.46460533px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46161515"
-     x="45.326382"
-     y="31.038713"
-     id="text32"
-     transform="rotate(17.799606)"><tspan
-       sodipodi:role="line"
-       id="tspan30"
-       x="45.326382"
-       y="31.038713"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.46161515">T</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-rule:nonzero;stroke-width:1.00241292"
+     d="m 29.94464,39.330396 v 2.679451 h 2.67945 l 6.767289,-6.767291 -2.67945,-2.679449 z m 11.816443,-6.449524 c 0.283683,-0.282681 0.283683,-0.729756 0,-1.01344 l -1.674029,-1.674029 c -0.283684,-0.283682 -0.73076,-0.283682 -1.01344,0 l -1.400371,1.408391 2.67945,2.67945 z"
+     id="path20" />
 </svg>
