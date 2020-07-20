@@ -38,15 +38,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="948"
-     inkscape:window-height="1027"
+     inkscape:window-width="1908"
+     inkscape:window-height="1031"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="10.881357"
-     inkscape:cy="24"
-     inkscape:window-x="964"
-     inkscape:window-y="8"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="-33.784668"
+     inkscape:cy="14.170702"
+     inkscape:window-x="8"
+     inkscape:window-y="1084"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <linearGradient
@@ -90,7 +90,8 @@
   <path
      d="m45.668 25 1.191 11.807c0 3.438-2.943 6.228-6.57 6.228h-32.578c-3.627 0-6.57-2.79-6.57-6.228l1.191-11.807z"
      fill="#005268"
-     id="path14" />
+     id="path14"
+     style="fill:#007e9c;fill-opacity:1" />
   <path
      d="m45.668 24 1.191 11.807c0 3.438-2.943 6.228-6.57 6.228h-32.578c-3.627 0-6.57-2.79-6.57-6.228l1.191-11.807z"
      fill="#15a9d4"
