@@ -1,10 +1,104 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
- <path d="m11.817 23.108l-9e-3 -8.697 9.754-1.454v10.151h-9.745zm11.371-10.409l13.002-2.077v12.486h-13.002v-10.409zm13.004 12.193l-2e-3 12.486-13.002-2.007v-10.479h13.004zm-14.63 10.251l-9.746-1.466-1e-3 -8.785h9.747v10.251z" style="fill-opacity:.75;fill-rule:nonzero;fill:#eff9fe"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.0750367 -43.19 43.19 .0750367 87.46 45.5869)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#003fb6" offset="0"/>
-   <stop style="stop-color:#21c6fb" offset="1"/>
-  </linearGradient>
- </defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg13"
+   sodipodi:docname="1CD8_rundll32.0.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1908"
+     inkscape:window-height="1031"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="12.263776"
+     inkscape:cy="21.829298"
+     inkscape:window-x="1924"
+     inkscape:window-y="1084"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <path
+     d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z"
+     style="fill:url(#_Linear1)"
+     id="path2" />
+  <path
+     d="m11.817 23.108l-9e-3 -8.697 9.754-1.454v10.151h-9.745zm11.371-10.409l13.002-2.077v12.486h-13.002v-10.409zm13.004 12.193l-2e-3 12.486-13.002-2.007v-10.479h13.004zm-14.63 10.251l-9.746-1.466-1e-3 -8.785h9.747v10.251z"
+     style="fill-opacity:0.75;fill-rule:nonzero;fill:#eff9fe;filter:url(#filter834)"
+     id="path4" />
+  <defs
+     id="defs11">
+    <linearGradient
+       id="_Linear1"
+       x2="1"
+       gradientTransform="matrix(.0750367 -43.19 43.19 .0750367 87.46 45.5869)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#003fb6"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#21c6fb"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter834">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood824" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite826" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur828" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset830" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite832" />
+    </filter>
+  </defs>
 </svg>
