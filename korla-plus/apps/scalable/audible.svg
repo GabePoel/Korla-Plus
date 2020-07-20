@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1908"
-     inkscape:window-height="1031"
+     inkscape:window-height="2107"
      id="namedview15"
      showgrid="false"
      inkscape:zoom="11.061499"
-     inkscape:cx="15.755465"
-     inkscape:cy="20.2142"
+     inkscape:cx="45.477999"
+     inkscape:cy="35.815448"
      inkscape:window-x="1924"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
@@ -345,27 +345,6 @@
        y2="14.873172"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <g
-     style="fill:none;stroke:#ffffff;stroke-width:0.10288;stroke-opacity:0.93699999"
-     transform="matrix(3.3149127,0,0,3.3149127,-4.1325378,-932.9611)"
-     clip-path="url(#a-3)"
-     id="g31">
-    <path
-       style="opacity:0.35"
-       inkscape:connector-curvature="0"
-       d="m 1.4854,287.74 c 0.719,0.15538 1.3906,0.6252 1.9826,1.9807 0.674,1.544 1.623,2.229 2.772,2.283 1.48,0.07 2.673,-1.226 3.459,-2.385 1.602,-2.362 4.5188,-2.1357 5.8165,-1.2509"
-       id="path25" />
-    <path
-       style="opacity:0.35"
-       inkscape:connector-curvature="0"
-       d="m 1.4927,288.13 c 0.89388,-0.34988 2.0828,-0.42377 2.8723,0.82673 0.722,1.143 1.576,2.867 4.049,2.709 1.478,-0.095 2.956,-0.71 3.718,-2.15 0.52913,-0.93299 1.2601,-1.8714 2.2929,-2.1036 0.38219,-0.0816 0.65524,-0.0703 0.97604,0.0566"
-       id="path27" />
-    <path
-       style="opacity:0.35"
-       inkscape:connector-curvature="0"
-       d="m 1.7748,290.25 c 0.94712,-0.44412 2.7457,-0.95337 4.1972,-0.52987 1.297,0.379 2.937,1.847 6.056,1.504 0.824,-0.09 1.522,-0.563 2.183,-1.464 0.4785,-0.6525 0.75018,-1.0197 1.3056,-1.1669"
-       id="path29" />
-  </g>
   <path
      inkscape:connector-curvature="0"
      d="M 8.4533898,23.325399 C 13.70039,25.9574 18.95239,28.5784 24.20339,31.2024 c 5.249,-2.623 10.501,-5.245 15.75,-7.873001 -0.004,0.739 -0.005,1.479 -0.002,2.217001 -5.252,2.623 -10.502,5.248 -15.75,7.876 -5.248,-2.627 -10.496,-5.252 -15.7460002,-7.876 0,-0.741001 0,-1.481001 -0.002,-2.221001 z"

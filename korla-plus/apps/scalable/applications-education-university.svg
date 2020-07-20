@@ -33,14 +33,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="950"
-     inkscape:window-height="1031"
+     inkscape:window-width="1908"
+     inkscape:window-height="2107"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-12.40678"
-     inkscape:cy="24"
-     inkscape:window-x="2882"
+     inkscape:zoom="27.812867"
+     inkscape:cx="18.058933"
+     inkscape:cy="10.199791"
+     inkscape:window-x="1924"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg22" />
@@ -52,11 +52,11 @@
      id="circle2" />
   <path
      d="m23.656 29.478l15.845-7.633v-0.697l-15.845-7.633-15.832 7.626v0.711l15.832 7.626z"
-     style="fill-rule:nonzero;fill:url(#_Linear2);filter:url(#filter855)"
+     style="fill-rule:nonzero;fill:url(#_Linear2);"
      id="path4" />
   <path
      d="m13.309 25.885v4.562l9.545 4.598h1.604l9.518-4.585c9e-3 -0.021 0.018-0.041 0.027-0.061v-4.514l-10.347 4.984-10.347-4.984z"
-     style="fill-rule:nonzero;fill:url(#_Linear2);filter:url(#filter843)"
+     style="fill-rule:nonzero;fill:url(#_Linear2);"
      id="path6" />
   <path
      d="m38.649 35.351l-0.816-2.487v-8.875l-1.254 0.632v8.243l-0.816 2.487 1.234 1.652h0.418l1.234-1.652z"
