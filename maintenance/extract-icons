@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm ./icon-checking/* -r
+find ../korla-plus/apps/scalable/ -type f -exec cp {} ./icon-checking \;
+find ./icon-checking/ -iname '*-alt.svg' -exec mv {} ./alternates \;
+# find ./icon-checking -iname '*-alt.svg' -delete \;

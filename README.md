@@ -24,7 +24,9 @@ Use `python3 install.py link ` to create symbolic links to your icons for easy m
 
 Or use `python3 install.py move` to just move the included themes and then delete everything else.
 
+## Other Icon Sources
 
+Several icons are used (possibly with modification) from McMuse.
 
 
 

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+find ../korla-plus/apps/scalable/ -iname '*-alt.svg' -delete
