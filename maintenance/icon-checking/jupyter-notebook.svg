@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 48 48"
    id="svg23"
-   sodipodi:docname="jupyter-notebook.svg.svg"
+   sodipodi:docname="jupyter-notebook.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata27">
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1908"
-     inkscape:window-height="1031"
+     inkscape:window-height="2107"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="6.8907614"
-     inkscape:cy="24.165345"
-     inkscape:window-x="8"
-     inkscape:window-y="1084"
+     inkscape:zoom="9.4689655"
+     inkscape:cx="19.5"
+     inkscape:cy="19.672979"
+     inkscape:window-x="1924"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg23" />
   <path
@@ -132,50 +132,6 @@
          style="stop-color:#9a9a9b;stop-opacity:1"
          offset="1"
          id="stop938" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient911"
-       id="linearGradient913"
-       x1="17.720339"
-       y1="0.24285081"
-       x2="17.511147"
-       y2="13.641156"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1643.21,2484.27)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient911">
-      <stop
-         style="stop-color:#f37726;stop-opacity:1;"
-         offset="0"
-         id="stop907" />
-      <stop
-         style="stop-color:#bf520c;stop-opacity:1"
-         offset="1"
-         id="stop909" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient903"
-       id="linearGradient905"
-       x1="18.584745"
-       y1="14.937766"
-       x2="18.591654"
-       y2="0.67505419"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1643.21,2457.88)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient903">
-      <stop
-         style="stop-color:#f37726;stop-opacity:1;"
-         offset="0"
-         id="stop899" />
-      <stop
-         style="stop-color:#f79f66;stop-opacity:1"
-         offset="1"
-         id="stop901" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -308,10 +264,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1123"
        id="linearGradient1025"
-       x1="36.457947"
-       y1="44.62027"
-       x2="36.38604"
-       y2="28.15307"
+       x1="43.428085"
+       y1="44.51466"
+       x2="31.950497"
+       y2="27.625031"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -348,7 +304,7 @@
        id="path27" />
   </g>
   <circle
-     style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1.0"
+     style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1"
      id="path1015"
      cx="36.673676"
      cy="36.206898"
@@ -380,13 +336,7 @@
       <g
          id="path17 fill"
          style="mix-blend-mode:normal"
-         figma:type="vector">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1661.9062,2491.3924 c -8.0126,0 -15.0549,-2.8757 -18.6962,-7.1224 1.4128,3.8204 3.9622,7.1163 7.3048,9.444 3.3426,2.3278 7.3182,3.5756 11.3914,3.5756 4.0733,0 8.0488,-1.2478 11.3915,-3.5756 3.3426,-2.3277 5.8919,-5.6236 7.3048,-9.444 -3.6324,4.2467 -10.648,7.1224 -18.6963,7.1224 z"
-           id="use47"
-           style="mix-blend-mode:normal;fill:url(#linearGradient913);fill-opacity:1" />
-      </g>
+         figma:type="vector" />
     </g>
     <g
        id="g55"
@@ -395,13 +345,7 @@
       <g
          id="path18 fill"
          style="mix-blend-mode:normal"
-         figma:type="vector">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1661.9062,2463.7773 c 8.0127,0 15.055,2.8756 18.6963,7.1223 -1.4129,-3.8204 -3.9622,-7.1163 -7.3048,-9.444 -3.3427,-2.3277 -7.3182,-3.5756 -11.3915,-3.5756 -4.0732,0 -8.0488,1.2479 -11.3914,3.5756 -3.3426,2.3277 -5.892,5.6236 -7.3048,9.444 3.6413,-4.2556 10.648,-7.1223 18.6962,-7.1223 z"
-           id="use52"
-           style="mix-blend-mode:normal;fill:url(#linearGradient905);fill-opacity:1" />
-      </g>
+         figma:type="vector" />
     </g>
     <g
        id="g60"
