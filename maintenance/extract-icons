@@ -1,6 +1,9 @@
 #!/bin/bash
 
-rm ./icon-checking/* -r
-find ../korla-plus/apps/scalable/ -type f -exec cp {} ./icon-checking \;
-find ./icon-checking/ -iname '*-alt.svg' -exec mv {} ./alternates \;
-# find ./icon-checking -iname '*-alt.svg' -delete \;
+rm ./checking-app/* -r
+find ../korla-plus/apps/scalable/ -type f -exec cp {} ./checking-app \;
+find ./checking-app/ -iname '*-alt.svg' -exec mv {} ./alternates \;
+# find ./checking-app/ -iname '*-alt.svg' -delete \;
+rm ./checking-mimetype/* -r
+find ../korla-plus/mimetypes/scalable/ -type f -exec cp {} ./checking-mimetype \;
+find ./checking-mimetype/ -iname '*-alt.svg' -exec mv {} ./alternates \;
