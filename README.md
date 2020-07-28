@@ -1,6 +1,6 @@
 # Korla Plus
 
-**Korla Plus** is based on Korla, but with several additions, color changes, and other alterations made. As with Korla, there's you may need to update the icon cache. A script is included.
+**Korla Plus** is based on Korla, but with several additions, color changes, and other alterations made. The mimetypes are based on Deepin with many custom additions. As with Korla, there's you may need to update the icon cache. A script is included.
 
 Different versions available:
 * ***korla-plus*** - for dark themes with dark panel
