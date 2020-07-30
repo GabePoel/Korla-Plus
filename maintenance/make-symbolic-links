@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+
+from os import path
+import tkinter as tk
+from tkinter import filedialog
+import os
+
+tk.Tk().withdraw()
+here = filedialog.askdirectory()
+
+fp = [path.join(here, f) for f in os.listdir(here)]
+
+for f in fp:
+    if not f[-12:] == "symbolic.svg" and f[-4:] == ".svg":
+        name = f.split('/')[-1][:-4]
+        print(name)
+        os.system('ln -s ./' + name + '.svg ' + path.join(here, name + '-symbolic.svg'))
