@@ -2,9 +2,12 @@
 
 find ../korla-plus/mimetypes/scalable/ -type f -delete
 find ./checking-mimetype/ -exec cp {} ../korla-plus/mimetypes/scalable/ -r \;
+rm ./checking-mimetype/* -r
 
 find ../korla-plus/apps/scalable/ -type f -delete
 find ./checking-app/ -exec cp {} ../korla-plus/apps/scalable/ -r \;
+rm ./checking-app/* -r
 
 find ../korla-plus/devices/scalable/ -type f -delete
 find ./checking-device/ -exec cp {} ../korla-plus/devices/scalable/ -r \;
+rm ./checking-device/* -r

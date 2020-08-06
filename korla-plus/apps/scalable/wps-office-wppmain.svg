@@ -1,16 +1,33 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m42.397 45.363-12.085-0.014v-43.099l12.431-0.045c2.16 0.026 3.24 1.708 3.24 3.729v35.526c0.094 2.219-1.372 3.855-3.586 3.903z" style="fill:url(#_Linear1)"/>
- <path d="m23.275 2.257 16.512-1.548c2.209-0.223 3.174 0.962 3.191 3.337l-0.14 39.051c-0.04 2.642-1.222 4.026-3.552 4.123l-15.903-1.857h-16.984c-2.169 0-4.373-1.766-4.385-4.518v-34.223c0.083-3.166 1.403-4.359 4.569-4.417l16.692 0.052z" style="fill:url(#_Linear2)"/>
- <path d="m42.838 43.097c-0.04 2.642-1.222 4.026-3.552 4.123l-16.083-1.878v-43.078l16.584-1.555c2.209-0.223 3.174 0.962 3.191 3.337l-0.14 39.051z" style="fill-opacity:.15"/>
- <path d="m15.316 32.684v-8.684h12.158s5.21 0 5.21-4.342-5.21-4.342-5.21-4.342h-12.158" style="fill:none;stroke-opacity:.8;stroke-width:4.63px;stroke:#fff"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.00109739 -43.1476 43.1476 -.00109739 135.008 45.3606)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#b7b4b4" offset="0"/>
-   <stop style="stop-color:#f1f1f1" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(3.07113e-14,-42.2226,42.2226,3.07113e-14,136.472,44.3392)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#c43c17" offset="0"/>
-   <stop style="stop-color:#fb6741" offset="1"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="wps-office-wppmain-a" width="123.8%" height="123.8%" x="-11.9%" y="-11.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="wps-office-wppmain-b" x1="50%" x2="50%" y1="0%" y2="113.916%">
+      <stop offset="0%" stop-color="#FF9165"/>
+      <stop offset="100%" stop-color="#FF003F"/>
+    </linearGradient>
+    <linearGradient id="wps-office-wppmain-c" x1="99.067%" x2=".942%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#FFD6C2"/>
+      <stop offset="100%" stop-color="#FFC4B1"/>
+    </linearGradient>
+    <linearGradient id="wps-office-wppmain-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFE2D8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#wps-office-wppmain-a)" transform="translate(29 29)">
+    <path fill="url(#wps-office-wppmain-b)" d="M56,-9.09494702e-13 L331.347749,-9.09494702e-13 C345.227546,-8.88844978e-13 358.612775,5.15447751 368.907659,14.463833 L435.55991,74.7354637 C447.30079,85.3523894 454,100.442311 454,116.271631 L454,398 C454,428.927946 428.927946,454 398,454 L56,454 C25.072054,454 3.78758101e-15,428.927946 0,398 L0,56 C3.31784635e-15,25.072054 25.072054,-8.96707903e-13 56,-9.09494702e-13 Z"/>
+    <g fill-rule="nonzero" transform="translate(99 97)">
+      <polygon fill="url(#wps-office-wppmain-c)" points="192 120 192 176 64 176 64 120 74.667 120"/>
+      <path fill="url(#wps-office-wppmain-d)" stroke="#FFF" stroke-opacity=".4" stroke-width="6" d="M195.000036,172.926935 C227.295883,171.362871 253,144.682903 253,111.999418 L253,87.9994179 C253,41.0552142 214.944204,2.99941791 168,2.99941791 L48,2.99941791 C23.1471863,2.99941791 3,23.1466042 3,47.9994179 L3,223.999418 C3,240.015676 15.9837423,252.999418 32,252.999418 C48.0162577,252.999418 61,240.015676 61,223.999418 L61,71.9994179 C61,65.9242857 65.9248678,60.9994179 72,60.9994179 L168,60.9994179 C182.911688,60.9994179 195,73.0877297 195,87.9994179 L195,172.926936 Z"/>
+    </g>
+  </g>
 </svg>
