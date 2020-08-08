@@ -1,13 +1,16 @@
 #!/bin/bash
 
+mkdir ./checking-app
 rm ./checking-app/* -r
 find ../korla-plus/apps/scalable/ -type f -exec cp {} ./checking-app \;
 find ./checking-app/ -iname '*-alt.svg' -exec mv {} ./alternates \;
 
+mkdir ./checking-device
 rm ./checking-device/* -r
 find ../korla-plus/devices/scalable/ -type f -exec cp {} ./checking-device \;
 find ./checking-device/ -iname '*-alt.svg' -exec mv {} ./alternatives \;
 
+mkdir ./checking-mimetype
 rm ./checking-mimetype/* -r
 find ../korla-plus/mimetypes/scalable/ -type f -exec cp {} ./checking-mimetype \;
 find ./checking-mimetype/ -iname '*-alt.svg' -exec mv {} ./alternates \;

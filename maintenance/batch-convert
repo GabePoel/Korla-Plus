@@ -1,0 +1,33 @@
+#!/usr/bin/python3
+
+import os
+import tkinter as tk
+from os import path
+from os import system
+from tkinter import filedialog
+
+def rescale(in_fp, out_fp=None):
+    if out_fp is None:
+        out_fp = in_fp
+    system('rsvg-convert -a -w 512 -f svg ' + str(in_fp) + ' -o ' + str(out_fp))
+
+def load_dir(path=None):
+    if path is None:
+        tk.Tk().withdraw()
+        path = filedialog.askdirectory()
+    return path
+
+in_dir = load_dir()
+out_dir = load_dir()
+
+for root, subdirs, files in os.walk(in_dir):
+    list_file_path = os.path.join(root, 'my-directory-list.txt')
+    with open(list_file_path, 'wb') as list_file:
+        for filename in files:
+            if filename[-4:] == '.svg':
+                try:
+                    in_path = os.path.join(in_dir, filename)
+                    out_path = in_path = os.path.join(out_dir, filename)
+                    rescale(in_path, out_path)
+                except:
+                    print('skipped ' + str(filename))
