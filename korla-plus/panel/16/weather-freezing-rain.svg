@@ -1,9 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,0 C 5.929,0 4.165,1.27 3.406,3.07 1.478,3.35 0,5 0,7 0,8.94 1.365,10.54 3.187,10.91 3.951,10.13 4.709,9.35 5.5,8.6 6.073,9.14 6.633,9.7 7.187,10.25 7.43,10.18 7.57,9.41 7.906,9.16 8.76,8.29 9.615,7.43 10.5,6.6 11.166,7.22 11.791,7.86 12.437,8.5 13.035,9.07 13.665,9.71 13.875,10.53 13.891,10.59 13.893,10.64 13.906,10.69 15.141,10.15 16,8.94 16,7.5 16,5.71 14.649,4.23 12.906,4.03 12.451,1.74 10.427,0 8,0 Z M 10.5,9.44 C 10.415,9.52 10.335,9.61 10.25,9.69 9.853,10.11 9.351,10.47 9.125,11 H 11.906 C 11.88,10.94 11.85,10.87 11.812,10.82 11.439,10.3 10.933,9.9 10.5,9.44 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 10.5,8 10.156,8.34 8.75,9.75 C 8.297,10.2 8,10.81 8,11.5 8,12.87 9.125,14 10.5,14 11.875,14 13,12.87 13,11.5 13,10.81 12.703,10.2 12.25,9.75 L 10.844,8.34 Z M 5.5,10 5.156,10.34 3.75,11.75 C 3.297,12.2 3,12.81 3,13.5 3,14.87 4.125,16 5.5,16 6.875,16 8,14.87 8,13.5 8,12.81 7.703,12.2 7.25,11.75 L 5.844,10.34 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 326 326"
+   style="enable-background:new 0 0 326 326;"
+   xml:space="preserve"
+   sodipodi:docname="weather-showers.svg"><metadata
+   id="metadata51"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs49" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview47"
+   showgrid="false" />
+<g
+   id="g14">
+	<g
+   id="g12">
+		<g
+   id="g10">
+			<path
+   d="M71.2,226.6c-0.4-0.8-0.8-1.2-1.6-1.6c-2-1.2-5.2-0.8-6.4,1.6c-1.6,2.8-3.6,5.6-6,8.8c-10.4,15.2-25.6,37.6-25.6,50.8     c0,9.6,4,18.4,10.4,24.8c6.4,6.4,15.2,10.4,24.8,10.4c9.6,0,18.4-4,24.8-10c0,0,0,0,0.4-0.4c6.4-6.4,10.4-15.2,10.4-24.8     c0-13.2-15.2-35.6-25.6-50.8C74.8,232.2,72.8,229.4,71.2,226.6z"
+   id="path2"
+   style="fill:#dfdfdf;fill-opacity:1" />
+			<path
+   d="M263.2,226.6c-0.4-0.4-0.8-1.2-1.6-1.6c-2-1.2-5.2-0.8-6.4,1.6c-1.6,2.8-3.6,5.6-6,8.8c-10.4,15.2-25.6,37.6-25.6,50.8     c0.4,9.6,4.4,18.4,10.8,24.8c6.4,6.4,15.2,10.4,24.8,10.4c9.6,0,18.4-4,24.8-10.4c6.4-6.4,10.4-15.2,10.4-24.8     c0-13.2-15.2-35.6-25.6-50.8C266.8,232.2,264.8,229.4,263.2,226.6z"
+   id="path4"
+   style="fill:#dfdfdf;fill-opacity:1" />
+			<path
+   d="M167.2,226.6c-0.4-0.4-0.8-1.2-1.6-1.6c-2-1.2-5.2-0.8-6.4,1.6c-1.6,2.8-3.6,5.6-6,8.8c-10.4,15.2-25.6,37.6-25.6,50.8     c0,9.6,4,18.4,10.4,24.8c6.4,6.4,15.2,10.4,24.8,10.4c10,0,18.8-4,25.2-10.4c6.4-6.4,10.4-15.2,10.4-24.8     c0-13.2-15.2-35.6-25.6-50.8C170.8,232.2,168.8,229.4,167.2,226.6z"
+   id="path6"
+   style="fill:#dfdfdf;fill-opacity:1" />
+			<path
+   d="M306.8,87c-11.6-11.6-28-18.8-46-18.8c-9.2,0-18.4,2-26.8,5.6c-8.4,3.6-16,9.2-22,16c-4.4,4.8-11.6,5.2-16.4,1.2     c-4.8-4.4-5.2-11.6-1.2-16.4c8.4-9.6,18.4-16.8,29.6-22c2-0.8,3.6-1.6,5.6-2.4c-6.8-12-16-22.4-26.8-30     c-14.4-10-31.6-15.6-50-15.6c-21.6,0-42,8-57.2,21.2C80,39,69.2,57.8,66,79.4c-0.4,3.2-2.4,6.4-5.2,8c-2,1.2-4,2-6.4,2     c-14.8,0-28.4,6-38.4,16S0,128.6,0,143.8c0,14.8,6,28.4,16,38.4c10.4,9.6,23.6,15.6,38.8,15.6h206.4c18,0,34-7.2,46-18.8     c11.6-11.6,18.8-28,18.8-46S318.8,99,306.8,87z"
+   id="path8"
+   style="fill:#dfdfdf;fill-opacity:1" />
+		</g>
+	</g>
+</g>
+<g
+   id="g16">
+</g>
+<g
+   id="g18">
+</g>
+<g
+   id="g20">
+</g>
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g36">
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+<g
+   id="g42">
+</g>
+<g
+   id="g44">
+</g>
 </svg>
