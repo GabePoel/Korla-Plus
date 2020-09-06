@@ -11,11 +11,11 @@
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
    version="1.1"
    viewBox="0 0 48 48"
-   id="svg13"
+   id="svg19"
    sodipodi:docname="headspace.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
-     id="metadata17">
+     id="metadata23">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,6 +27,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
+     inkscape:document-rotation="0"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -35,51 +36,76 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1875"
-     inkscape:window-height="2100"
-     id="namedview15"
+     inkscape:window-width="1908"
+     inkscape:window-height="2108"
+     id="namedview21"
      showgrid="false"
-     inkscape:zoom="13.906433"
-     inkscape:cx="22.041005"
-     inkscape:cy="30.675666"
-     inkscape:window-x="30"
-     inkscape:window-y="30"
+     inkscape:zoom="11.313709"
+     inkscape:cx="25.909429"
+     inkscape:cy="11.36277"
+     inkscape:window-x="5764"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg13" />
-  <circle
-     cx="24"
-     cy="24"
-     r="22.764"
-     style="fill:url(#radialGradient826);fill-opacity:1"
-     id="circle2"
-     inkscape:transform-center-x="-6.6875524"
-     inkscape:transform-center-y="-18.0492" />
+     inkscape:current-layer="svg19" />
+  <path
+     d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z"
+     style="fill:url(#linearGradient843);fill-opacity:1.0"
+     id="path2" />
   <defs
-     id="defs11">
+     id="defs17">
     <linearGradient
        id="_Linear1"
        x2="1"
-       gradientTransform="matrix(2.78782e-15,-45.5286,45.5286,2.78782e-15,210.895,46.7643)"
+       gradientTransform="matrix(41.2109,-30.7295,30.7295,41.2109,185.564,282.234)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#fbfbfb;stop-opacity:1"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#fde6cd;stop-opacity:1"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       x2="1"
+       gradientTransform="matrix(41.2109,-30.7295,30.7295,41.2109,185.564,282.234)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient843"
+       xlink:href="#_Linear1"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#_Linear1-3"
+       id="radialGradient826"
+       cx="15.713634"
+       cy="35.234863"
+       fx="15.713634"
+       fy="35.234863"
+       r="22.764"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6033666,-1.2658174,0.69432651,0.8794791,-46.253828,30.711618)" />
+    <linearGradient
+       id="_Linear1-3"
+       x2="1"
+       gradientTransform="matrix(0,-45.5286,45.5286,0,210.895,46.7643)"
        gradientUnits="userSpaceOnUse">
       <stop
          style="stop-color:#e74539"
          offset="0"
          id="stop6" />
       <stop
-         style="stop-color:#ff9136"
+         style="stop-color:#ffbb36;stop-opacity:1"
          offset="1"
          id="stop8" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#_Linear1"
-       id="radialGradient826"
-       cx="24.069798"
-       cy="46.790806"
-       fx="24.069798"
-       fy="46.790806"
-       r="22.764"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.1810057,0.04105289,-0.01955734,1.9918081,-75.648949,-47.463146)" />
   </defs>
+  <circle
+     r="10.998747"
+     cx="23.749035"
+     cy="24.386696"
+     style="clip-rule:evenodd;fill:url(#radialGradient826);fill-opacity:1;fill-rule:evenodd;stroke-width:0.483164;stroke-linejoin:round;stroke-miterlimit:2"
+     id="circle2"
+     inkscape:transform-center-x="-3.2311849"
+     inkscape:transform-center-y="-8.7207258" />
 </svg>
