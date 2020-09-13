@@ -279,14 +279,14 @@ Type=Fixed
 
 ########## Places
 
-[places/16]
+[places/symbolic]
 Context=Places
 Size=16
 MinSize=16
 MaxSize=21
 Type=Scalable
 
-[places/22]
+[places/symbolic]
 Context=Places
 Size=16
 MinSize=22
