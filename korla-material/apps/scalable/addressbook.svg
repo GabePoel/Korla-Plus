@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg187"
+   sodipodi:docname="addressbook.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata191">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="948"
+     inkscape:window-height="1027"
+     id="namedview189"
+     showgrid="false"
+     inkscape:zoom="1.1221701"
+     inkscape:cx="232.93344"
+     inkscape:cy="325.80658"
+     inkscape:window-x="964"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g185" />
+  <defs
+     id="defs157">
+    <filter
+       id="deepin-contacts-a"
+       width="129.7%"
+       height="124.7%"
+       x="-13.8%"
+       y="-12.3%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="8"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="10"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-contacts-b"
+       x1="514.12638"
+       x2="514.12638"
+       y1="192.12591"
+       y2="276.26865"
+       gradientTransform="scale(0.70118947,1.4261481)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F66D6D"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="#F44343"
+         id="stop19" />
+    </linearGradient>
+    <rect
+       id="deepin-contacts-c"
+       width="59"
+       height="120"
+       x="331"
+       y="274"
+       rx="10" />
+    <filter
+       id="deepin-contacts-d"
+       width="157.6%"
+       height="128.3%"
+       x="-28.8%"
+       y="-14.2%"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         stdDeviation="2.5"
+         id="feGaussianBlur23" />
+      <feOffset
+         dx="29"
+         dy="7"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset25" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner1"
+         id="feComposite27" />
+      <feColorMatrix
+         in="shadowInnerInner1"
+         result="shadowMatrixInner1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"
+         id="feColorMatrix29" />
+      <feOffset
+         dy="-6"
+         in="SourceAlpha"
+         result="shadowOffsetInner2"
+         id="feOffset31" />
+      <feComposite
+         in="shadowOffsetInner2"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner2"
+         id="feComposite33" />
+      <feColorMatrix
+         in="shadowInnerInner2"
+         result="shadowMatrixInner2"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"
+         id="feColorMatrix35" />
+      <feMerge
+         id="feMerge41">
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode37" />
+        <feMergeNode
+           in="shadowMatrixInner2"
+           id="feMergeNode39" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-contacts-g"
+       x1="514.12638"
+       x2="514.12638"
+       y1="118.65163"
+       y2="195.50508"
+       gradientTransform="scale(0.70118947,1.4261481)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#C896E5"
+         id="stop44" />
+      <stop
+         offset="100%"
+         stop-color="#BD80DF"
+         id="stop46" />
+    </linearGradient>
+    <rect
+       id="deepin-contacts-f"
+       width="59"
+       height="120"
+       x="331"
+       y="160"
+       rx="10" />
+    <filter
+       id="deepin-contacts-e"
+       width="144.1%"
+       height="121.7%"
+       x="-22%"
+       y="-9.2%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset50" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="4"
+         id="feGaussianBlur52" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"
+         id="feColorMatrix54" />
+    </filter>
+    <filter
+       id="deepin-contacts-h"
+       width="184.7%"
+       height="141.7%"
+       x="-42.4%"
+       y="-19.2%"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         stdDeviation="2.5"
+         id="feGaussianBlur57" />
+      <feOffset
+         dx="29"
+         dy="7"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset59" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner1"
+         id="feComposite61" />
+      <feColorMatrix
+         in="shadowInnerInner1"
+         result="shadowMatrixInner1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"
+         id="feColorMatrix63" />
+      <feOffset
+         dy="-6"
+         in="SourceAlpha"
+         result="shadowOffsetInner2"
+         id="feOffset65" />
+      <feComposite
+         in="shadowOffsetInner2"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner2"
+         id="feComposite67" />
+      <feColorMatrix
+         in="shadowInnerInner2"
+         result="shadowMatrixInner2"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"
+         id="feColorMatrix69" />
+      <feMerge
+         id="feMerge75">
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode71" />
+        <feMergeNode
+           in="shadowMatrixInner2"
+           id="feMergeNode73" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-contacts-k"
+       x1="514.12638"
+       x2="514.12638"
+       y1="31.553526"
+       y2="115.69626"
+       gradientTransform="scale(0.70118947,1.4261481)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#7CBDF8"
+         id="stop78" />
+      <stop
+         offset="100%"
+         stop-color="#469DF0"
+         id="stop80" />
+    </linearGradient>
+    <rect
+       id="deepin-contacts-j"
+       width="59"
+       height="120"
+       x="331"
+       y="45"
+       rx="10" />
+    <filter
+       id="deepin-contacts-i"
+       width="144.1%"
+       height="121.7%"
+       x="-22%"
+       y="-9.2%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset84" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="4"
+         id="feGaussianBlur86" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"
+         id="feColorMatrix88" />
+    </filter>
+    <filter
+       id="deepin-contacts-l"
+       width="184.7%"
+       height="141.7%"
+       x="-42.4%"
+       y="-19.2%"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         stdDeviation="2.5"
+         id="feGaussianBlur91" />
+      <feOffset
+         dx="29"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset93" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner1"
+         id="feComposite95" />
+      <feColorMatrix
+         in="shadowInnerInner1"
+         result="shadowMatrixInner1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130272072 0"
+         id="feColorMatrix97" />
+      <feOffset
+         dy="-6"
+         in="SourceAlpha"
+         result="shadowOffsetInner2"
+         id="feOffset99" />
+      <feComposite
+         in="shadowOffsetInner2"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner2"
+         id="feComposite101" />
+      <feColorMatrix
+         in="shadowInnerInner2"
+         result="shadowMatrixInner2"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"
+         id="feColorMatrix103" />
+      <feMerge
+         id="feMerge109">
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode105" />
+        <feMergeNode
+           in="shadowMatrixInner2"
+           id="feMergeNode107" />
+      </feMerge>
+    </filter>
+    <radialGradient
+       id="deepin-contacts-m"
+       cx="220.16226"
+       cy="0"
+       r="411.19799"
+       fx="220.16226"
+       fy="0"
+       gradientTransform="scale(0.90659683,1.1030261)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FAFAFA"
+         id="stop112" />
+      <stop
+         offset="100%"
+         stop-color="#DAE2FB"
+         id="stop114" />
+    </radialGradient>
+    <path
+       id="deepin-contacts-n"
+       d="M40,0 L300,0 C333.137085,-6.08718376e-15 360,26.862915 360,60 L360,378 C360,411.137085 333.137085,438 300,438 L40,438 C17.90861,438 2.705415e-15,420.09139 0,398 L0,40 C-2.705415e-15,17.90861 17.90861,4.05812251e-15 40,0 Z" />
+    <filter
+       id="deepin-contacts-o"
+       width="102.2%"
+       height="101.8%"
+       x="-1.1%"
+       y="-.9%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="-8"
+         in="SourceAlpha"
+         result="shadowOffsetInner1"
+         id="feOffset118" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner1"
+         id="feComposite120" />
+      <feColorMatrix
+         in="shadowInnerInner1"
+         result="shadowMatrixInner1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"
+         id="feColorMatrix122" />
+      <feOffset
+         dy="6"
+         in="SourceAlpha"
+         result="shadowOffsetInner2"
+         id="feOffset124" />
+      <feComposite
+         in="shadowOffsetInner2"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner2"
+         id="feComposite126" />
+      <feColorMatrix
+         in="shadowInnerInner2"
+         result="shadowMatrixInner2"
+         values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.246640079 0"
+         id="feColorMatrix128" />
+      <feMerge
+         id="feMerge134">
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode130" />
+        <feMergeNode
+           in="shadowMatrixInner2"
+           id="feMergeNode132" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-contacts-r"
+       x1="155.08298"
+       x2="155.08298"
+       y1="87.980905"
+       y2="268.57329"
+       gradientTransform="scale(1.1576435,0.8638238)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#3C88FB"
+         id="stop137" />
+      <stop
+         offset="100%"
+         stop-color="#587ECE"
+         id="stop139" />
+    </linearGradient>
+    <path
+       id="deepin-contacts-q"
+       d="M147.886629,76 C189.838085,76 180.796823,111.109049 180.796823,119.071926 C185.85993,123.415313 183.328376,133.549884 178.26527,136.445476 C177.180318,152.733179 161.629347,163.591647 161.629347,166.12529 C161.629347,168.658933 161.267697,171.554524 163.79925,175.174014 C166.330804,178.793503 196.347794,180.241299 205.750706,187.118329 C210.946557,190.918431 215.479842,201.84699 219.350562,219.904006 C219.498233,220.592895 219.572688,221.295461 219.572688,222 C219.572688,227.522846 215.095537,231.999998 209.572691,232 L209.572691,232 L85.0022299,232 C84.240097,232 83.4804622,231.912874 82.7381205,231.740319 C77.3586915,230.489886 74.011479,225.11532 75.2619112,219.735891 C79.5707555,201.199016 84.1293183,190.326496 88.9375996,187.118329 C97.6172113,181.327146 127.272551,176.983759 131.250706,175.174014 C135.228862,173.364269 133.420609,169.382831 133.420609,165.401392 C133.420609,161.419954 119.31624,155.62877 116.784687,136.445476 C110.998279,132.102088 110.998279,123.777262 114.614784,119.071926 C114.614784,113.280742 105.935172,76 147.886629,76 Z M219.360696,78 C253.373854,78 248.669907,109.231579 248.669907,120.852632 C248.669907,132.473684 259.52517,138.647368 259.52517,144.821053 C259.52517,150.994737 234.919907,156.805263 233.110696,156.805263 C231.301486,156.805263 232.02517,160.8 233.110696,164.794737 C234.196223,168.789474 257.354117,167.7 268.20938,173.510526 C274.101816,176.664586 279.274584,186.64022 283.727684,203.437428 C283.949356,204.273581 284.061598,205.134962 284.061598,206 C284.061598,211.522847 279.584446,215.999999 274.061599,216 L274.061599,216 L226.235696,216 C222.255433,206.194737 220.08438,192.031579 211.40017,183.678947 C202.715959,175.326316 179.196223,174.236842 176.663328,172.784211 C178.110696,171.694737 203.077801,167.336842 205.248854,165.884211 C207.419907,164.431579 208.143591,159.710526 206.696223,157.894737 C205.248854,156.078947 184.623854,152.447368 182.814644,148.452632 C181.005433,144.457895 190.77517,135.378947 190.77517,120.852632 C190.77517,106.326316 185.347538,78 219.360696,78 Z" />
+    <filter
+       id="deepin-contacts-p"
+       width="123%"
+       height="130.8%"
+       x="-11.5%"
+       y="-11.5%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="6"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset143" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="7"
+         id="feGaussianBlur145" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite147" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0.257619154   0 0 0 0 0.737828351  0 0 0 0.35 0"
+         id="feColorMatrix149" />
+    </filter>
+    <linearGradient
+       id="deepin-contacts-s"
+       x1="118.03389"
+       x2="118.03389"
+       y1="426.996"
+       y2="558.14477"
+       gradientTransform="matrix(1.5163557,0.16200858,-0.06966369,0.65203295,24.61705,-19.966385)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#3C88FB"
+         id="stop152" />
+      <stop
+         offset="100%"
+         stop-color="#587ECE"
+         id="stop154" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="rotate(-6.1430474,569.02539,-330.87693)"
+     id="g185"
+     style="fill:none;fill-rule:evenodd;filter:url(#deepin-contacts-a)">
+    <use
+       xlink:href="#deepin-contacts-c"
+       id="use159"
+       style="fill:url(#deepin-contacts-b)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-c"
+       id="use161"
+       style="fill:#000000;filter:url(#deepin-contacts-d)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-f"
+       id="use163"
+       style="fill:#000000;filter:url(#deepin-contacts-e)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-f"
+       id="use165"
+       style="fill:url(#deepin-contacts-g)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-f"
+       id="use167"
+       style="fill:#000000;filter:url(#deepin-contacts-h)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-j"
+       id="use169"
+       style="fill:#000000;filter:url(#deepin-contacts-i)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-j"
+       id="use171"
+       style="fill:url(#deepin-contacts-k)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-j"
+       id="use173"
+       style="fill:#000000;filter:url(#deepin-contacts-l)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-n"
+       id="use175"
+       style="fill:url(#deepin-contacts-m)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-n"
+       id="use177"
+       style="fill:#000000;filter:url(#deepin-contacts-o)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-q"
+       id="use179"
+       style="fill:#000000;filter:url(#deepin-contacts-p)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <use
+       xlink:href="#deepin-contacts-q"
+       id="use181"
+       style="fill:url(#deepin-contacts-r);fill-opacity:0.85"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="rotate(6.0983901,199.72018,221.08128)" />
+    <path
+       d="m 258.677,359.04408 c 3.84412,0.41072 6.62745,3.85993 6.21674,7.70405 -0.41071,3.8441 -3.85993,6.62744 -7.70404,6.21672 L 72.242286,353.20493 c -3.844114,-0.4107 -6.62744,-3.85991 -6.216733,-7.70403 0.410708,-3.84411 3.859925,-6.62744 7.70404,-6.21674 z m 3.82451,-35.79626 c 3.84411,0.4107 6.62744,3.85992 6.21673,7.70403 -0.41071,3.84411 -3.85992,6.62744 -7.70404,6.21674 L 76.066787,317.40867 c -3.844114,-0.41071 -6.627441,-3.85993 -6.216733,-7.70405 0.410707,-3.8441 3.859924,-6.62744 7.70404,-6.21673 z m 3.8245,-35.79628 c 3.8441,0.41071 6.62744,3.85993 6.21673,7.70404 -0.41071,3.84411 -3.85992,6.62744 -7.70404,6.21673 L 79.891288,281.61239 c -3.844115,-0.41071 -6.627441,-3.85992 -6.216733,-7.70404 0.410707,-3.84411 3.859924,-6.62744 7.704039,-6.21673 z"
+       id="path183"
+       style="fill:url(#deepin-contacts-s);fill-opacity:0.85"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

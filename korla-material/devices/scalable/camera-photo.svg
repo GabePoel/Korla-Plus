@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg107"
+   sodipodi:docname="unity-lens-photos.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1000"
+     inkscape:window-height="1060"
+     id="namedview109"
+     showgrid="false"
+     inkscape:zoom="0.82371238"
+     inkscape:cx="329.70651"
+     inkscape:cy="269.01695"
+     inkscape:window-x="10"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g105"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs72">
+    <filter
+       id="deepin-screenshot&amp;record-a"
+       width="122.9%"
+       height="127.3%"
+       x="-11.4%"
+       y="-13.6%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="8"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="10"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-screenshot&amp;record-b"
+       x1="216.1666"
+       x2="216.1666"
+       y1="-3.878677e-15"
+       y2="415.50247"
+       gradientTransform="scale(1.0917505,0.91596018)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F0EDFF"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="#BBA7F6"
+         id="stop19" />
+    </linearGradient>
+    <path
+       id="deepin-screenshot&amp;record-c"
+       d="M408,226 L408,278 L356,278 L356,226 L408,226 Z M52,226 L52,278 L-1.42108547e-14,278 L-1.42108547e-14,226 L52,226 Z M52,0 L52,52 L-1.42108547e-14,52 L-1.42108547e-14,0 L52,0 Z M408,0 L408,52 L356,52 L356,0 L408,0 Z" />
+    <linearGradient
+       id="deepin-screenshot&amp;record-g"
+       x1="101.00428"
+       x2="101.00428"
+       y1="39.355592"
+       y2="272.54209"
+       gradientTransform="scale(1.0011478,0.99885351)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#6B6386"
+         id="stop23" />
+      <stop
+         offset="72.102%"
+         stop-color="#302B42"
+         id="stop25" />
+      <stop
+         offset="100%"
+         stop-color="#72639E"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-screenshot&amp;record-h"
+       x1="128.57942"
+       x2="128.57942"
+       y1="7.6381516e-06"
+       y2="257.15884"
+       gradientTransform="scale(1.0011478,0.99885351)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFF"
+         stop-opacity=".15"
+         id="stop30" />
+      <stop
+         offset="100%"
+         stop-opacity=".328"
+         id="stop32" />
+    </linearGradient>
+    <ellipse
+       id="deepin-screenshot&amp;record-f"
+       cx="128.727"
+       cy="128.432"
+       rx="128.727"
+       ry="128.432" />
+    <filter
+       id="deepin-screenshot&amp;record-e"
+       width="118.6%"
+       height="118.7%"
+       x="-9.3%"
+       y="-4.7%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="12"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset36" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="6"
+         id="feGaussianBlur38" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite40" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"
+         id="feColorMatrix42" />
+    </filter>
+    <radialGradient
+       id="deepin-screenshot&amp;record-i"
+       cx="128.57992"
+       cy="199.28587"
+       r="40.226656"
+       fx="128.57992"
+       fy="199.28587"
+       gradientTransform="scale(1.0011439,0.9988574)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#8462FF"
+         id="stop45" />
+      <stop
+         offset="100%"
+         stop-color="#232129"
+         id="stop47" />
+    </radialGradient>
+    <ellipse
+       id="deepin-screenshot&amp;record-j"
+       cx="128.727"
+       cy="128.432"
+       rx="85.818"
+       ry="85.622" />
+    <radialGradient
+       id="deepin-screenshot&amp;record-k"
+       cx="128.59069"
+       cy="128.56815"
+       r="57.574968"
+       fx="128.59069"
+       fy="128.56815"
+       gradientTransform="scale(1.0010601,0.99894106)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F53E84"
+         id="stop51" />
+      <stop
+         offset="100%"
+         stop-color="#4F2CA2"
+         id="stop53" />
+    </radialGradient>
+    <linearGradient
+       id="deepin-screenshot&amp;record-l"
+       x1="166.08147"
+       x2="91.077519"
+       y1="112.04098"
+       y2="141.77104"
+       gradientTransform="scale(1.0011472,0.99885407)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#4B003F"
+         id="stop56" />
+      <stop
+         offset="14.589%"
+         stop-color="#33036D"
+         id="stop58" />
+      <stop
+         offset="51.448%"
+         stop-color="#C30B9D"
+         id="stop60" />
+      <stop
+         offset="80.605%"
+         stop-color="#591A85"
+         id="stop62" />
+      <stop
+         offset="100%"
+         stop-color="#470437"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-screenshot&amp;record-m"
+       x1="116.17535"
+       x2="116.17535"
+       y1="56.824251"
+       y2="102.28429"
+       gradientTransform="scale(1.0618776,0.94172815)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FEE"
+         stop-opacity=".85"
+         id="stop67" />
+      <stop
+         offset="100%"
+         stop-color="#FF578A"
+         stop-opacity=".7"
+         id="stop69" />
+    </linearGradient>
+    <filter
+       id="deepin-screenshot&amp;record-e-0"
+       width="1.186"
+       height="1.1869999"
+       x="-0.093000002"
+       y="-0.046999998"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="12"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset36-8" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="6"
+         id="feGaussianBlur38-1" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite40-3" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"
+         id="feColorMatrix42-1" />
+    </filter>
+    <radialGradient
+       id="deepin-screenshot&amp;record-i-3"
+       cx="128.57993"
+       cy="199.28587"
+       r="40.226658"
+       fx="128.57993"
+       fy="199.28587"
+       gradientTransform="scale(1.0011439,0.9988574)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#8462FF"
+         id="stop45-9" />
+      <stop
+         offset="100%"
+         stop-color="#232129"
+         id="stop47-1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient989"
+       cx="128.57993"
+       cy="199.28587"
+       r="40.226658"
+       fx="128.57993"
+       fy="199.28587"
+       gradientTransform="scale(1.0011439,0.9988574)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#8462FF"
+         id="stop985" />
+      <stop
+         offset="100%"
+         stop-color="#232129"
+         id="stop987" />
+    </radialGradient>
+    <radialGradient
+       id="deepin-screenshot&amp;record-k-9"
+       cx="128.59068"
+       cy="128.56815"
+       r="57.574966"
+       fx="128.59068"
+       fy="128.56815"
+       gradientTransform="scale(1.0010601,0.99894106)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F53E84"
+         id="stop51-6" />
+      <stop
+         offset="100%"
+         stop-color="#4F2CA2"
+         id="stop53-9" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#deepin-screenshot&amp;record-b"
+       id="linearGradient1093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0917505,0.91596018)"
+       x1="216.1666"
+       y1="-3.878677e-15"
+       x2="216.1666"
+       y2="415.50247" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#deepin-screenshot&amp;record-g"
+       id="linearGradient1095"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0011478,0.99885351)"
+       x1="101.00428"
+       y1="39.355592"
+       x2="101.00428"
+       y2="272.54209" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#deepin-screenshot&amp;record-h"
+       id="linearGradient1097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0011478,0.99885351)"
+       x1="128.57942"
+       y1="7.6381516e-06"
+       x2="128.57942"
+       y2="257.15884" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#deepin-screenshot&amp;record-l"
+       id="linearGradient1099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0011472,0.99885407)"
+       x1="166.08147"
+       y1="112.04098"
+       x2="91.077519"
+       y2="141.77104" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#deepin-screenshot&amp;record-m"
+       id="linearGradient1101"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0618776,0.94172815)"
+       x1="116.17535"
+       y1="56.824251"
+       x2="116.17535"
+       y2="102.28429" />
+  </defs>
+  <g
+     transform="translate(20 58)"
+     id="g105"
+     filter="url(#deepin-screenshot&amp;record-a)"
+     fill-rule="evenodd"
+     fill="none">
+    <path
+       d="M 109.63447,24.77015 C 116.68302,9.65932 131.84718,0 148.52109,0 h 172.95782 c 16.67391,0 31.83807,9.65932 38.88662,24.77015 l 2.86359,6.13903 C 369.79981,44.995545 383.93589,54 399.47936,54 H 416 v 0 c 30.92795,0 56,25.072054 56,56 v 230 c 0,30.92795 -25.07205,56 -56,56 H 56 C 25.072054,396 0,370.92795 0,340 V 110 C 0,79.072054 25.072054,54 56,54 h 14.520641 c 15.543473,0 29.679549,-9.004455 36.250239,-23.09082 z"
+       id="path74"
+       style="fill:url(#deepin-screenshot&amp;record-b)"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(32 86)"
+       id="g81">
+      <mask
+         id="deepin-screenshot&amp;record-d"
+         fill="#fff">
+        <use
+           xlink:href="#deepin-screenshot&amp;record-c"
+           id="use76" />
+      </mask>
+      <path
+         d="M24,3 C12.4020203,3 3,12.4020203 3,24 L3,254 C3,265.59798 12.4020203,275 24,275 L384,275 C395.59798,275 405,265.59798 405,254 L405,24 C405,12.4020203 395.59798,3 384,3 L24,3 Z"
+         mask="url(#deepin-screenshot&amp;record-d)"
+         id="path79"
+         stroke-opacity=".4"
+         stroke-width="6"
+         stroke="#000" />
+    </g>
+    <ellipse
+       cx="396.909"
+       cy="128.43201"
+       rx="13.727"
+       ry="13.703"
+       id="ellipse83"
+       style="fill:#ff5555;stroke:#d51818;stroke-width:6" />
+    <g
+       transform="translate(107.273,96.324)"
+       id="g103">
+      <use
+         xlink:href="#deepin-screenshot&amp;record-f"
+         id="use85"
+         style="fill:#000000;filter:url(#deepin-screenshot&amp;record-e)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         stroke-linejoin="square"
+         rx="126.727"
+         ry="126.432"
+         id="ellipse87"
+         style="fill:url(#deepin-screenshot&amp;record-g);stroke:url(#deepin-screenshot&amp;record-h);stroke-width:4" />
+      <use
+         xlink:href="#deepin-screenshot&amp;record-j"
+         id="use89"
+         style="fill:url(#deepin-screenshot&amp;record-i)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="87.818001"
+         ry="87.622002"
+         id="ellipse91"
+         style="stroke:#000000;stroke-width:4" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         stroke-linejoin="square"
+         rx="83.818001"
+         ry="83.622002"
+         id="ellipse93"
+         style="stroke:#ffffff;stroke-width:4;stroke-opacity:0.05" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="55.636002"
+         ry="55.514"
+         id="ellipse95"
+         style="fill:url(#deepin-screenshot&amp;record-k);stroke:#080808;stroke-width:4" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="37.544998"
+         ry="37.459"
+         id="ellipse97"
+         style="fill:url(#deepin-screenshot&amp;record-l)" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="26.818001"
+         ry="26.757"
+         id="ellipse99"
+         style="fill:#38000e" />
+      <ellipse
+         cx="123.364"
+         cy="96.323997"
+         rx="48.272999"
+         ry="42.811001"
+         id="ellipse101"
+         style="opacity:0.5;fill:url(#deepin-screenshot&amp;record-m)" />
+    </g>
+    <path
+       d="M 109.63447,24.77015 C 116.68302,9.65932 131.84718,0 148.52109,0 h 172.95782 c 16.67391,0 31.83807,9.65932 38.88662,24.77015 l 2.86359,6.13903 C 369.79981,44.995545 383.93589,54 399.47936,54 H 416 v 0 c 30.92795,0 56,25.072054 56,56 v 230 c 0,30.92795 -25.07205,56 -56,56 H 56 C 25.07205,396 0,370.92795 0,340 V 110 C 0,79.072054 25.07205,54 56,54 h 14.52064 c 15.54347,0 29.67955,-9.004455 36.25024,-23.09082 z"
+       id="path74-0"
+       style="fill:url(#linearGradient1093)"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       cx="396.90903"
+       cy="128.43201"
+       rx="13.727"
+       ry="13.703"
+       id="ellipse83-4"
+       style="fill:#ff5555;stroke:#d51818;stroke-width:6" />
+    <g
+       transform="translate(107.273,96.324)"
+       id="g103-6">
+      <use
+         xlink:href="#deepin-screenshot&amp;record-f"
+         id="use85-2"
+         style="fill:#000000;filter:url(#deepin-screenshot&amp;record-e-0)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         stroke-linejoin="square"
+         rx="126.727"
+         ry="126.432"
+         id="ellipse87-6"
+         style="fill:url(#linearGradient1095);stroke:url(#linearGradient1097);stroke-width:4" />
+      <use
+         xlink:href="#deepin-screenshot&amp;record-j"
+         id="use89-7"
+         style="fill:url(#deepin-screenshot&amp;record-i-3)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="87.818001"
+         ry="87.622002"
+         id="ellipse91-5"
+         style="stroke:#000000;stroke-width:4" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         stroke-linejoin="square"
+         rx="83.818001"
+         ry="83.622002"
+         id="ellipse93-6"
+         style="stroke:#ffffff;stroke-width:4;stroke-opacity:0.05" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="55.636002"
+         ry="55.514"
+         id="ellipse95-9"
+         style="fill:url(#deepin-screenshot&amp;record-k-9);stroke:#080808;stroke-width:4" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="37.544998"
+         ry="37.459"
+         id="ellipse97-8"
+         style="fill:url(#linearGradient1099)" />
+      <ellipse
+         cx="128.72701"
+         cy="128.43201"
+         rx="26.818001"
+         ry="26.757"
+         id="ellipse99-7"
+         style="fill:#38000e" />
+      <ellipse
+         cx="123.364"
+         cy="96.323997"
+         rx="48.272999"
+         ry="42.811001"
+         id="ellipse101-2"
+         style="opacity:0.5;fill:url(#linearGradient1101)" />
+    </g>
+  </g>
+</svg>

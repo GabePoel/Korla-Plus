@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg107"
+   sodipodi:docname="deepin-album.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1908"
+     inkscape:window-height="1017"
+     id="namedview109"
+     showgrid="false"
+     inkscape:zoom="0.97167478"
+     inkscape:cx="274.44068"
+     inkscape:cy="219.11864"
+     inkscape:window-x="1924"
+     inkscape:window-y="1098"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg107" />
+  <defs
+     id="defs72">
+    <filter
+       id="deepin-album-a"
+       width="129.8%"
+       height="133.6%"
+       x="-14.8%"
+       y="-16.8%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="8"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="10"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <path
+       id="deepin-album-c"
+       d="M20.6573728,71.554852 C20.7592535,45.048022 42.3365348,23.4802578 68.8466207,23.3819207 L413.083952,22.104999 C439.596258,22.0066537 461.006161,43.4088421 460.904257,69.9217903 L459.803446,356.325314 C459.701565,382.832144 438.124284,404.399909 411.614198,404.498246 L67.3768668,405.775167 C40.8645608,405.873513 19.4546575,384.471324 19.5565618,357.958376 L20.6573728,71.554852 Z" />
+    <filter
+       id="deepin-album-b"
+       width="110.9%"
+       height="112.5%"
+       x="-5.4%"
+       y="-6.3%"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         in="SourceAlpha"
+         operator="dilate"
+         radius="4"
+         result="shadowSpreadOuter1"
+         id="feMorphology18" />
+      <feOffset
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset20" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="4"
+         id="feGaussianBlur22" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite24" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"
+         id="feColorMatrix26" />
+    </filter>
+    <rect
+       id="deepin-album-e"
+       width="438"
+       height="382"
+       x="24"
+       y="22"
+       rx="48" />
+    <filter
+       id="deepin-album-d"
+       width="111%"
+       height="112.6%"
+       x="-5.5%"
+       y="-6.3%"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         in="SourceAlpha"
+         operator="dilate"
+         radius="4"
+         result="shadowSpreadOuter1"
+         id="feMorphology30" />
+      <feOffset
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset32" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="4"
+         id="feGaussianBlur34" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite36" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"
+         id="feColorMatrix38" />
+    </filter>
+    <linearGradient
+       id="deepin-album-h"
+       x1="205.14953"
+       x2="205.14953"
+       y1="0"
+       y2="410.29907"
+       gradientTransform="scale(1.0734097,0.93161072)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFF"
+         id="stop41" />
+      <stop
+         offset="100%"
+         stop-color="#FFF3E7"
+         id="stop43" />
+    </linearGradient>
+    <rect
+       id="deepin-album-g"
+       width="440.419"
+       height="382.239"
+       x="0"
+       y="0"
+       rx="48" />
+    <filter
+       id="deepin-album-f"
+       width="110.9%"
+       height="112.6%"
+       x="-5.4%"
+       y="-6.3%"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         in="SourceAlpha"
+         operator="dilate"
+         radius="4"
+         result="shadowSpreadOuter1"
+         id="feMorphology47" />
+      <feOffset
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset49" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="4"
+         id="feGaussianBlur51" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"
+         id="feColorMatrix53" />
+    </filter>
+    <linearGradient
+       id="deepin-album-j"
+       x1="165.39667"
+       x2="165.39667"
+       y1="330.79334"
+       y2="0"
+       gradientTransform="scale(1.1982618,0.8345422)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#D14848"
+         id="stop56" />
+      <stop
+         offset="100%"
+         stop-color="#FF9E00"
+         id="stop58" />
+    </linearGradient>
+    <rect
+       id="deepin-album-i"
+       width="396.377"
+       height="276.061"
+       x="0"
+       y="0"
+       rx="32" />
+    <linearGradient
+       id="deepin-album-l"
+       x1="128.13065"
+       x2="104.43574"
+       y1="190.70002"
+       y2="282.66443"
+       gradientTransform="scale(1.33194,0.75078457)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FF3C14"
+         stop-opacity=".8"
+         id="stop62" />
+      <stop
+         offset="100%"
+         stop-color="#4A00C1"
+         stop-opacity=".899"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-album-m"
+       x1="204.42012"
+       x2="204.42012"
+       y1="179.17965"
+       y2="367.0232"
+       gradientTransform="scale(1.3196186,0.75779472)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFD332"
+         stop-opacity=".3"
+         id="stop67" />
+      <stop
+         offset="100%"
+         stop-color="#002DFF"
+         stop-opacity=".5"
+         id="stop69" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="rotate(6.197052,-134.99638,382.73148)"
+     id="g105"
+     style="fill:none;fill-rule:evenodd;filter:url(#deepin-album-a)">
+    <g
+       transform="rotate(6,240.23,213.94)"
+       id="g78"
+       style="opacity:0.5">
+      <use
+         xlink:href="#deepin-album-c"
+         id="use74"
+         style="fill:#000000;filter:url(#deepin-album-b)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#deepin-album-c"
+         id="use76"
+         style="fill:#ffffff;fill-opacity:0.8"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g84"
+       style="opacity:0.5">
+      <use
+         xlink:href="#deepin-album-e"
+         id="use80"
+         style="fill:#000000;filter:url(#deepin-album-d)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#deepin-album-e"
+         id="use82"
+         style="fill:#ffffff;fill-opacity:0.8"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       transform="rotate(-6,447.992,11.496)"
+       id="g103">
+      <use
+         xlink:href="#deepin-album-g"
+         id="use86"
+         style="fill:#000000;filter:url(#deepin-album-f)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#deepin-album-g"
+         id="use88"
+         style="fill:url(#deepin-album-h)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <g
+         transform="translate(22.02,21.235)"
+         id="g101">
+        <mask
+           id="deepin-album-k"
+           fill="#fff">
+          <use
+             xlink:href="#deepin-album-i"
+             id="use90"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </mask>
+        <use
+           xlink:href="#deepin-album-i"
+           id="use93"
+           style="fill:url(#deepin-album-j)"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <ellipse
+           cx="328.802"
+           cy="52.424999"
+           mask="url(#deepin-album-k)"
+           rx="20.507999"
+           ry="20.570999"
+           id="ellipse95"
+           style="fill:#fff7a1" />
+        <path
+           d="M -11.010473,276.06133 145.40151,84.092105 c 13.95117,-17.122698 36.57377,-17.118656 50.52165,0 L 352.33514,276.06133 Z"
+           mask="url(#deepin-album-k)"
+           id="path97"
+           style="fill:url(#deepin-album-l)"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 110.10473,297.29682 244.93147,126.92888 c 13.71053,-17.32472 35.94059,-17.32361 49.65025,0 l 134.82673,170.36794 z"
+           mask="url(#deepin-album-k)"
+           id="path99"
+           style="fill:url(#deepin-album-m)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg13"
+   sodipodi:docname="todoist.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1900"
+     inkscape:window-height="1060"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="13.530584"
+     inkscape:cx="24.161479"
+     inkscape:cy="28.188393"
+     inkscape:window-x="10"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 45.668,8.56 c 0,-3.438 -2.79,-6.2280005 -6.228,-6.2280005 H 8.5599998 c -3.438,0 -6.228,2.7900005 -6.228,6.2280005 v 30.88 c 0,3.438 2.79,6.228 6.228,6.228 H 39.44 c 3.438,0 6.228,-2.79 6.228,-6.228 z"
+     style="clip-rule:evenodd;fill:url(#_Linear1-36);fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+     id="path2-3" />
+  <path
+     d="m30.172 7.17c-0.336-0.014-0.67 0.053-0.975 0.193l-18.315 10.275-8.55-3.946v4.699l7.639 3.525c0.558 0.257 1.199 0.262 1.76 0.013l19.199-10.666c2.093-0.895 1.517-4.008-0.758-4.094v1e-3zm0 8.532c-0.335-0.013-0.669 0.054-0.975 0.194l-18.315 10.275-8.55-3.947v4.7l7.639 3.525c0.558 0.257 1.199 0.261 1.76 0.012l19.199-10.666c2.093-0.895 1.517-4.007-0.758-4.093zm0 8.533c-0.335-0.013-0.669 0.053-0.975 0.194l-18.315 10.274-8.55-3.946v4.7l7.639 3.524c0.558 0.258 1.199 0.262 1.76 0.013l19.199-10.666c2.093-0.895 1.517-4.008-0.758-4.094v1e-3z"
+     style="fill:#fff"
+     id="path4" />
+  <defs
+     id="defs11">
+    <linearGradient
+       id="_Linear1"
+       x2="1"
+       gradientTransform="matrix(0,-43.3373,43.3373,0,302.963,45.6687)"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       y2="0"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#880a00"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#c2352a"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="_Linear1-3"
+       x2="1"
+       gradientTransform="matrix(-0.652062,-42.6054,42.6054,-0.652062,-22.556071,47.640047)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#c52828"
+         offset="0"
+         id="stop6-6" />
+      <stop
+         style="stop-color:#ff5454"
+         offset="1"
+         id="stop8-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_Linear1-3"
+       id="linearGradient842"
+       x1="23.687933"
+       y1="45.762711"
+       x2="23.701897"
+       y2="2.4406779"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="_Linear1-36"
+       x2="1"
+       gradientTransform="matrix(0,-43.3373,43.3373,0,201.9,45.6687)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#_Linear1-3">
+      <stop
+         style="stop-color:#c62929;stop-opacity:1"
+         offset="0"
+         id="stop8-75" />
+      <stop
+         style="stop-color:#ff5454;stop-opacity:1"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+  </defs>
+</svg>

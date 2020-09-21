@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="utilities-x-terminal.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1908"
+     inkscape:window-height="1030"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-132.33898"
+     inkscape:cy="256"
+     inkscape:window-x="8"
+     inkscape:window-y="1084"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs22">
+    <filter
+       id="deepin-terminal-a"
+       width="123.5%"
+       height="125.7%"
+       x="-11.7%"
+       y="-12.9%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="8"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="10"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <radialGradient
+       id="deepin-terminal-b"
+       cx="50%"
+       cy="0%"
+       r="100%"
+       fx="50%"
+       fy="0%"
+       gradientTransform="matrix(0 1 -.91304 0 .5 -.5)">
+      <stop
+         offset="0%"
+         stop-color="#FF774D"
+         id="stop17"
+         style="stop-color:#e3edec;stop-opacity:1" />
+      <stop
+         offset="100%"
+         stop-color="#BA0E55"
+         id="stop19"
+         style="stop-color:#bcbdc1;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     filter="url(#deepin-terminal-a)"
+     transform="translate(26 46)"
+     id="g30">
+    <rect
+       width="460"
+       height="420"
+       fill="url(#deepin-terminal-b)"
+       rx="64"
+       id="rect24" />
+    <path
+       fill="#FFF0F0"
+       fill-rule="nonzero"
+       d="M146.712413,145.691982 L67.9535477,191.634653 C62.2289247,194.974017 60.2952898,202.321829 63.6346532,208.046452 C66.9740166,213.771075 74.3218293,215.70471 80.0464523,212.365347 L176.046452,156.365347 C183.984516,151.73481 183.984516,140.26519 176.046452,135.634653 L80.0464523,79.6346532 C74.3218293,76.2952898 66.9740166,78.2289247 63.6346532,83.9535477 C60.2952898,89.6781707 62.2289247,97.0259834 67.9535477,100.365347 L146.712413,145.691982 Z"
+       id="path26"
+       style="fill:#3c3c3c;fill-opacity:1" />
+    <path
+       fill="#FFF0F0"
+       d="M271.090909,258 C277.115834,258 284,251.731986 284,244 C284,236.268014 277.115834,230 271.090909,230 L164.909091,230 C158.884166,230 152,236.268014 152,244 C152,251.731986 158.884166,258 164.909091,258 L271.090909,258 Z"
+       id="path28"
+       style="fill:#3c3c3c;fill-opacity:1" />
+  </g>
+</svg>
