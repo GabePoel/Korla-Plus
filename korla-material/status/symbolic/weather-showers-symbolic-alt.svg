@@ -7,15 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   viewBox="0 0 24 24"
-   width="24"
+   width="16"
+   height="16"
    version="1.1"
-   id="svg6"
-   sodipodi:docname="network-wired-disconnected-symbolic.svg"
+   id="svg4"
+   sodipodi:docname="weather-showers-scattered-symbolic.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata12">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,18 +37,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1908"
      inkscape:window-height="2108"
-     id="namedview8"
+     id="namedview6"
      showgrid="false"
-     inkscape:zoom="36.833333"
-     inkscape:cx="12.054299"
-     inkscape:cy="12"
+     inkscape:zoom="59.75"
+     inkscape:cx="8.0334728"
+     inkscape:cy="8"
      inkscape:window-x="1924"
      inkscape:window-y="8"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg4" />
   <path
-     d="M 7,6.12 C 6.57,5.77 5.94,5.82 5.59,6.25 l -4.24,5.11 c -0.31,0.37 -0.31,0.91 0,1.28 l 4.24,5.11 C 5.94,18.18 6.57,18.23 7,17.88 7.43,17.53 7.48,16.9 7.13,16.47 L 3.42,12 7.13,7.53 C 7.48,7.1 7.43,6.47 7,6.12 Z m 10,0 C 16.57,6.47 16.52,7.1 16.87,7.53 l 3.71,4.47 -3.71,4.47 c -0.35,0.43 -0.29,1.06 0.13,1.41 0.43,0.35 1.06,0.3 1.41,-0.13 l 4.24,-5.11 c 0.31,-0.37 0.31,-0.91 0,-1.28 L 18.41,6.25 C 18.06,5.83 17.42,5.77 17,6.12 Z"
-     id="path4"
-     sodipodi:nodetypes="sccccscccscccccccccc" />
+     d="M5 1.762a.75.75 0 00-.57.25C4.18 2.302 2 4.908 2 7c0 .774.267 1.5.752 2.045C3.14 9.48 3.843 10 5 10c1.969 0 3-1.509 3-3 0-2.092-2.183-4.698-2.43-4.988a.745.745 0 00-.57-.25zm6 4a.75.75 0 00-.57.25C10.18 6.302 8 8.908 8 11c0 .774.266 1.5.751 2.045C9.138 13.48 9.843 14 11 14c1.969 0 3-1.509 3-3 0-2.092-2.183-4.698-2.431-4.988a.745.745 0 00-.569-.25z"
+     fill="#333333"
+     id="path2"
+     style="fill:#000000;fill-opacity:1" />
 </svg>
