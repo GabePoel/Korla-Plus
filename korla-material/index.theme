@@ -32,17 +32,6 @@ Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations/scal
 ########## ICON CATEGORIES
 ########## Actions
 
-[actions/scalable]
-Context=Actions
-Size=16
-Type=Fixed
-
-[actions/scalable@2]
-Context=Actions
-Size=16
-Scale=2
-Type=Fixed
-
 [actions/symbolic]
 SContext=Actions
 Size=16
