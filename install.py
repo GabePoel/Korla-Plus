@@ -13,7 +13,7 @@ def link(name):
 def move(name):
     os.system("mvdir '" + os.path.join(insdir, name) + "' " + tardir)
 
-themes = ["korla-plus", "korla-plus-light", "korla-plus-light-panel", "korla-plus-pgrey"]
+themes = ["korla-plus", "korla-plus-light", "korla-plus-light-panel", "korla-plus-pgrey", "korla-material"]
 
 if len(sys.argv) == 1:
     raise ValueError("No input provided.\nPlease specify either 'link' or 'move'.")
